@@ -24,9 +24,12 @@ This project analyzes colorectal cancer gene expression data using Python and pu
 
 The analysis generated:
 
-* Differential expression results for thousands of genes
-* Log2 Fold Change calculations
-* Volcano plot visualization of expression changes
+- Differential expression results for thousands of genes
+- Log2 Fold Change calculations
+- Volcano plot visualization of expression changes
+
+### Volcano Plot
+![Volcano Plot](figures/volcano_plot.png)
 
 ## 📁 Repository Structure
 
